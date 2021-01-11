@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">gorsestreet</string>
+    <string name="appCenterCrashes_whenToSendCrashes"
+    	moduleConfig="true"
+    	transatable="false">ALWAYS_SEND</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics"
+    	moduleConfig="true"
+    	transatable="false">ALWAYS_SEND</string>
+
 </resources>
