@@ -1,4 +1,4 @@
 # gorsestreet
 
-[![Build status](https://build.appcenter.ms/v0.1/apps/58a42d95-307c-45de-811e-6b88d4505464/branches/dev/badge)](https://appcenter.ms)
-[![Build status](https://build.appcenter.ms/v0.1/apps/f568ef6c-e415-4e6d-be4f-a1317a9561bc/branches/dev/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/7ce8e18f-ecf7-45a3-8522-4ae6d2beaa98/branches/dev/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/85ae843c-535f-4b64-929d-00f3e0eb2eee/branches/dev/badge)](https://appcenter.ms)
