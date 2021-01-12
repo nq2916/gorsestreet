@@ -29,6 +29,7 @@ const App: () => React$Node = () => {
 					<Button title="Crash"
 						onPress={() => Crashes.generateTestCrash()}
 					/>
+					<Text style={styles.footer}>Come and see me</Text>
 				</View>
 			</SafeAreaView>
 		</>
